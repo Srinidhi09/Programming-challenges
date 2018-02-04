@@ -1,3 +1,6 @@
+/**
+ * Write a Java program to trim any leading or trailing whitespace from a given string
+ */
 public class Challenge1Solution {
 
     public static void main(String[] args) {
