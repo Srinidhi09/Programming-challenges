@@ -1,6 +1,5 @@
-/**
- * Implement an algorithm to determine if a string has all unique characters or not
- */
+
+// Implement an algorithm to determine if a string has all unique characters or not
 
 import java.util.*;
 
